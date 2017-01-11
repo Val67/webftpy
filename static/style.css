@@ -1,0 +1,19 @@
+body
+{
+	font-family: sans-serif;
+	width: 500px;
+	margin: auto;
+}
+h2
+{
+	border-top: 1px solid navy;
+}
+table
+{
+	width: 100%;
+}
+th
+{
+	background: navy;
+	color: white;
+}

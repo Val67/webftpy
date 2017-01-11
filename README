@@ -1,0 +1,15 @@
+webftpy - A basic web FTP client
+================================
+
+Setting up:
+In main.py, enter the server's adress in line 4.
+You may change the way webftpy is started in the last line.
+
+What works:
+- Exploring a server
+- Viewing files
+- Creating folders
+
+What is still to do:
+- Moving, copying, deleting files
+- Uploading files
